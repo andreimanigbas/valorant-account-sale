@@ -1,4 +1,4 @@
-Check all skins inside the *skins* folder
+> **Note:** Check all skins inside the *skins* folder
 
 ## Contact
 
@@ -16,6 +16,7 @@ Check all skins inside the *skins* folder
 - [x] Riot ID changeable
 - [x] Full access
 - [x] All agents unlocked
+
   > **Server:** South-EastAsia (SEA)
   >
   > **Peak rank:** Diamond 1 (E5:A1)
