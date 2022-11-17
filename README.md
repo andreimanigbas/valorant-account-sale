@@ -1,3 +1,5 @@
+Check all skins inside the *skins* folder
+
 ## Contact
 
 **Discord:** tsunami#6454
