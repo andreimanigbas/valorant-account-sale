@@ -1,5 +1,8 @@
 > **Note:** Check all skins inside the *skins* folder
 
+## Pricing
+My starting price: ₱13,000.00 **Open for negotiation.**
+
 ## Contact
 
 **Discord:** tsunami#6454
