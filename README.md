@@ -11,6 +11,8 @@ My starting price: ₱13,000.00 **Open for negotiation.**
 
 **[Facebook Messenger](https://m.me/100080953788348/)**
 
+**[Telegram](https://t.me/aljmanigbas)**
+
 ## Details
 
 **Reason for selling:** Quitting, preparing for work
