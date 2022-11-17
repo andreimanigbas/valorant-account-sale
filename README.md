@@ -12,6 +12,8 @@
 
 **Reason for selling:** Quitting, preparing for work
 
+**Total Spent:** ₱17408.00 (300 USD)
+
 - [x] E-mail changeable
 - [x] Riot ID changeable
 - [x] Full access
