@@ -1,7 +1,7 @@
 > **Note:** Check out all the skins inside the *skins* folder
 
 ## Pricing
-My starting price: ₱13,000.00 **Open for negotiation.**
+My starting price: ₱10,500.00 **Open for negotiation.**
 
 ## Contact
 
