@@ -1,13 +1,8 @@
 > **Note:** Check out all the skins inside the *skins* folder
 
-## Pricing
-My starting price: ₱10,500.00 **Open for negotiation.**
-
 ## Contact
 
 **Discord:** tsunami#6454
-
-**[Discord Server](https://discord.gg/UWRQSweNfy)**
 
 **[Facebook Messenger](https://m.me/100080953788348/)**
 
@@ -15,14 +10,13 @@ My starting price: ₱10,500.00 **Open for negotiation.**
 
 ## Details
 
-**Reason for selling:** Quitting, preparing for work
+**Reason for selling:** quitting
 
-**Total Spent:** ₱17408.00 (300 USD)
+**Total Spent:** ₱17,408.00 (300 USD)
 
 - [x] E-mail changeable
-- [x] Riot ID changeable
-- [x] Full access
-- [x] All agents unlocked
+- [x] Riot ID/name changeable
+- [x] All agents unlocked except Gekko
 
   > **Server:** South-EastAsia (SEA)
   >
