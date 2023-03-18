@@ -1,6 +1,6 @@
 > **Note:** Check out all the skins inside the *skins* folder
 
-## Contact
+## Contact (I reply faster on Messenger)
 
 **Discord:** tsunami#6454
 
